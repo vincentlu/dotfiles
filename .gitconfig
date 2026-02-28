@@ -1,0 +1,7 @@
+[user]
+	name = Vincent Lu
+	email = 11368+vincentlu@users.noreply.github.com
+[credential]
+	helper = osxkeychain
+[init]
+	defaultBranch = main
