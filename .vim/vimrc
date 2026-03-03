@@ -1,14 +1,7 @@
 syntax on
 set nocompatible
-" Default color scheme
-"let base16colorspace=256 " Access colors present in 256 colorspace
-"set t_Co=256 " 256 color mode
-
-"set background=dark
-
-"colorscheme base16-ocean
-
-"colorscheme torte
+set background=dark
+colorscheme Tomorrow-Night-Bright
 syntax on
 set showmode
 set showmatch
