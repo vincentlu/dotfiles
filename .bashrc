@@ -1,6 +1,10 @@
 # Dotfiles
 alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
+# Homebrew
+alias bud='brew update'
+alias bug='brew upgrade'
+
 # Docker
 alias drm='docker rm -f'
 alias drma='docker rm -f $(docker ps -aq)'
